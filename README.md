@@ -6,4 +6,5 @@
 ## 2주차 
 - Git 설치, 연동
 - Python 설치 
-- Gitignore 쉽게 추가하는 사이트 = https://www.toptal.com/developers/gitignore/
+- Gitignore 쉽게 추가하는 사이트
+  https://www.toptal.com/developers/gitignore/
